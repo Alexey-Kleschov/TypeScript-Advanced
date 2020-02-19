@@ -1,0 +1,23 @@
+{
+  "name": "type_script_advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexey-Kleschov/TypeScript-Advanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexey-Kleschov/TypeScript-Advanced/issues"
+  },
+  "homepage": "https://github.com/Alexey-Kleschov/TypeScript-Advanced#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
